@@ -9,3 +9,4 @@ print (age)
 
 var weight = 100
 var height = 160
+var greeting="no no"
