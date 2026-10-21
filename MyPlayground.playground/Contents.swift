@@ -8,3 +8,4 @@ var age = 30
 print (age)
 
 var weight = 100
+var height = 160
