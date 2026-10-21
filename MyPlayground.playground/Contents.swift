@@ -4,3 +4,7 @@ var greeting = "Hello, playground"
 
 print "hello"
 
+var age = 30
+print (age)
+
+var weight = 100
